@@ -1,0 +1,4 @@
+.vagrant/
+*.log
+hadoop-2.9.1/
+
